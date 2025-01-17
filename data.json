@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"qwerySearch": "beach",
+		"name": "The Taste of Paradise",
+		"description": "The famous white-sand beach setting on Dominican Republic coastescription",
+		"img": "./img/beach1.png"
+	},
+	{
+		"id": 2,
+		"qwerySearch": "beach",
+		"name": "Shake Hands in Crete",
+		"description": "Explore the warm hospitality and rich culture of Crete, where every handshake tells a story. From stunning beaches to historic ruins, Crete offers a unique blend of tradition and adventure. Immerse yourself in the island’s vibrant atmosphere and connect with its friendly locals. Discover the true spirit of Crete, one handshake at a time.",
+		"img": "./img/beach2.jpg"
+	},
+	{
+		"id": 3,
+		"qwerySearch": "city",
+		"name": "Washington DC, USA",
+		"description": "The famous white-sand beach setting on Dominican Republic coastescription",
+		"img": "./img/washington-dc.jpeg"
+	},
+	{
+		"id": 4,
+		"qwerySearch": "city",
+		"name": "Telluride, CO, USA",
+		"description": "This Is the Most Beautiful Town in Colorado. An old Victorian mining town, Telluride sits at 8,750 feet, with a gondola arcing up over the ski slopes to Mountain Village, situated even higher at 9,547. The architecture in its National Historic District is quaint and congruent, the Victorian homes recalling the latticed Gold Rush cabins of yore. The red-brick Sheridan Opera House (built in 1913) and the old Nugget Building with its arched windows and striped canopies (1892) are familiar, welcoming forms.",
+		"img": "./img/Telluride2.png"
+	},
+	{
+		"id": 5,
+		"qwerySearch": "temple",
+		"name": "Temple of Poseidon at Paestum",
+		"description": "Step back in time and marvel at the grandeur of the Temple of Poseidon at Paestum, one of the best-preserved ancient Greek temples. Located in southern Italy, this architectural masterpiece showcases the timeless beauty of Doric design. Surrounded by picturesque landscapes, the temple stands as a testament to devotion and artistry. Experience the history and serenity of this iconic landmark.",
+		"img": "./img/temple1.png"
+	},
+	{
+		"id": 6,
+		"qwerySearch": "temple",
+		"name": "Agrigento, Valley of the Temples",
+		"description": "Discover the breathtaking beauty of Agrigento’s Valley of the Temples, a UNESCO World Heritage Site and one of Sicily’s most iconic landmarks. This vast archaeological park features remarkably preserved ancient Greek temples, surrounded by olive trees and stunning views of the Mediterranean. Walk through history as you explore the Temple of Concordia, the Temple of Hera, and more. Agrigento is a must-visit destination for lovers of history, culture, and architecture.",
+		"img": "./img/temple2.png"
+	}
+]
